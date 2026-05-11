@@ -16,12 +16,6 @@ Stream Downloader is an upcoming browser extension designed to detect, intercept
 
 :bell: **Get notified when this launches:** [Join the waitlist](https://apps.serp.co/waiting-list)
 
-## Watch The Video
-
-<a href="https://www.youtube.com/watch?v=SVtC2W4GYBc" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-vimeo-videos-for-free-hls-streams-http-live-stream.jpg" width="700px">
-</a>
-
 ## Links
 
 - :hourglass_flowing_sand: Waitlist: [Coming Soon — Sign Up](https://apps.serp.co/waiting-list)
@@ -30,7 +24,9 @@ Stream Downloader is an upcoming browser extension designed to detect, intercept
 
 ## Preview
 
-![Stream Downloader hero image](https://raw.githubusercontent.com/serpapps/stream-downloader/refs/heads/main/assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=SVtC2W4GYBc" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-vimeo-videos-for-free-hls-streams-http-live-stream.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
