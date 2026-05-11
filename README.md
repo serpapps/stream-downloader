@@ -1,5 +1,11 @@
 # Stream Downloader — Coming Soon (Browser Extension)
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=SVtC2W4GYBc" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-vimeo-videos-for-free-hls-streams-http-live-stream.jpg" width="700px">
+</a>
+
 > Capture and download any live or on-demand video stream from any website directly in your browser. **This extension is currently in development and has not been released yet.**
 
 Stream Downloader is an upcoming browser extension designed to detect, intercept, and save video streams across the open web. Whether a site serves content via HLS, DASH, progressive MP4, or WebRTC, the extension will identify the active media pipeline and let you pull the video down to a local file without switching to a separate desktop application or pasting URLs into a command-line tool.
