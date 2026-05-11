@@ -24,7 +24,9 @@ Stream Downloader is an upcoming browser extension designed to detect, intercept
 
 ## Preview
 
-![Stream Downloader hero image](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=SVtC2W4GYBc" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-vimeo-videos-for-free-hls-streams-http-live-stream.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
